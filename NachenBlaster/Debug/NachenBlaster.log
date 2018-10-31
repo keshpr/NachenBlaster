@@ -1,0 +1,14 @@
+﻿  StudentWorld.cpp
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\studentworld.cpp(144): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Actor.cpp
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\actor.cpp(89): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\actor.cpp(90): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\actor.cpp(126): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\actor.cpp(176): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\actor.cpp(188): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\actor.cpp(428): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\actor.cpp(477): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\actor.cpp(479): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\cs\cs32\project 3\nachenblaster\nachenblaster\actor.cpp(504): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  NachenBlaster.vcxproj -> C:\CS\CS32\Project 3\NachenBlaster\Debug\NachenBlaster.exe
